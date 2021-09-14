@@ -1,0 +1,5 @@
+ "Instrumental Resolution Function" para el Difractómetro Xpert del CIMAV
+! Poner IRESO=1 en FullProf.2k (version > 1.6)
+!   Uins      Vins       Wins       Xins       Yins       Zins
+  0.000000   0.000000   0.002374   0.010377   0.042745   0.000000  
+  0.000000   0.000000   0.002374   0.010377   0.042745   0.000000  
