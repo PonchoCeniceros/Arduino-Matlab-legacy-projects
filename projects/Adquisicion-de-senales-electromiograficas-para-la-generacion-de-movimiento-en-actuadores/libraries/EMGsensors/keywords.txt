@@ -1,0 +1,5 @@
+ECGsensors	KEYWORD1
+ECGsensor	KEYWORD1
+EGCcomponent	KEYWORD1 
+AD8232	KEYWORD1
+readingSignal	KEYWORD2
